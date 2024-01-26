@@ -1,0 +1,73 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #09752d;
+    cursor: pointer;
+    margin-right: 24px;
+    ;
+}
+.img-logo {
+    width: 500px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+.botao {
+    background-color: rgb(43, 226, 89);
+    border-radius: 24.5px;
+    width: 144px;
+    height: 38px;
+    cursor: pointer;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 122px;
+    color: dimgray;
+}
+h2 {
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px;
+    color: dimgray;
+}
+p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    color: dimgray;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.botao2 {
+    background-color: rgb(43, 226, 89);
+    border-radius: 30px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgb(0,0,0,25));
+    font-size: 28px;
+    line-height: 34px;
+    color:#000000;
+}
